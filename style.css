@@ -45,6 +45,12 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-header.svg");
 }
+.header-vk {
+  padding-left: 27px;
+  background-image: url("img/icon-vk-header.svg");
+  background-size: 19px;
+  
+}
 
 .hero-image {
   margin-bottom: 620px;
@@ -191,4 +197,9 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+.footer-vk {
+  padding-left: 25px;
+  background-image: url("img/icon-vk-footer.svg");
+  background-size: 19px;
 }
